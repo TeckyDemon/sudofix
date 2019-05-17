@@ -1,2 +1,41 @@
-# sudofix
-Sudofix is simple script to fix missing or corrupted /etc/sudoers file.
+# Sudofix
+
+**Sudofix** Sudofix is simple script to fix missing or corrupted **/etc/sudoers** file.
+
+## Content
+
+- [Content](#content)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Supported shells](#supported-shells)
+- [Supported package managers](#supported-package-managers)
+- [Authors](#authors)
+- [License](#license)
+
+## Installation
+
+`git clone "https://github.com/DeBos99/sudofix.git"`
+
+## Usage
+
+`pkexec $SHELL $PWD/sudofix.sh`
+
+## Supported shells
+
+* Bash
+* Zsh
+
+Other shells were not tested, but they may work.
+
+## Supported package managers
+
+* APT
+* Pacman
+
+## Authors
+
+* **Michał Wróblewski** - Main Developer - [DeBos99](https://github.com/DeBos99)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
