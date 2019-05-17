@@ -31,6 +31,8 @@ Other shells were not tested, but they may work.
 
 * APT
 * Pacman
+* Homebrew
+* YUM
 
 ## Authors
 
