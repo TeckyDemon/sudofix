@@ -10,6 +10,7 @@
 - [Supported shells](#supported-shells)
 - [Supported package managers](#supported-package-managers)
 - [Authors](#authors)
+- [Contact](#contact)
 - [License](#license)
 
 ## Installation
@@ -37,6 +38,10 @@ Other shells were not tested, but they may work.
 ## Authors
 
 * **Michał Wróblewski** - Main Developer - [DeBos99](https://github.com/DeBos99)
+
+## Contact
+
+Discord: DeBos#3292
 
 ## License
 
